@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "my-form-lib": {
+      "signature": "b88776062b0fc3b6ee4e8443ed27f1f4",
+      "file": true
+    }
+  }
+}

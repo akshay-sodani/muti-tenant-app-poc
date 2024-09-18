@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of my-form-lib
+ */
+export * from './lib/my-form-lib.component';
+export * from './lib/form/form.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215LWZvcm0tbGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw2QkFBNkIsQ0FBQztBQUM1QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBteS1mb3JtLWxpYlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL215LWZvcm0tbGliLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9mb3JtL2Zvcm0uY29tcG9uZW50JztcbiJdfQ==
